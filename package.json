@@ -17,7 +17,7 @@
     "version": "node bin/version.js && npm run dist && git add -A css js dist"
   },
   "dependencies": {
-    "desandro-matches-selector": "^2.0.0",
+    "desandro-matches-selector": "^2.0.2",
     "fizzy-ui-utils": "^2.0.4",
     "get-size": "^2.0.0",
     "masonry-layout": "^4.1.0",
